@@ -37,6 +37,8 @@ Remove outlier and bin more of the continous data to see if improvements can be 
 
 Latitude and longitude were important features in the desicion tree and random forest but when you think about it have nothing to do with a well breaking down so I would like to remove these and gps height and focus more on basin and regions. 
 
+![Random Forest Most important features](https://github.com/murra181/Tanzania-water-well-challenge/blob/main/Media/Random%20Forest%20most%20important%20features.jpg)
+
 Also want to focus on a bigger break down of the eda to then determine which variables are interacting with each other
 
 Predict and submit to the challenge
