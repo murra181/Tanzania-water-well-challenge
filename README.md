@@ -1,7 +1,7 @@
 # Tanzania Water Challenge -
-This is the classification challange from drivendata.org
+Tanzania has a severe water crisis that is affecting over half the country. 4 million people do not have access to safe water and 30 million of the countries 57 million do not have improved sanitation. This is the classification challange from drivendata.org. We will be looking to see which water wells need our attention first and be able to predict which ones going forward.
 
-![Tanzania climate classification map] (https://github.com/murra181/Tanzania-water-well-challenge/blob/main/Media/Tanzania%20climate%20classification%20map.jpg)
+![Tanzania climate classification map](https://github.com/murra181/Tanzania-water-well-challenge/blob/main/Media/Tanzania%20climate%20classification%20map.jpg)
 
 ## Business Case - 
 Using data provided from drivendata.org for the "Pump it Up: Data Mining the Water Table" Challenge I will be building a model to predict if a well is functional, functional but in the need of a repair, or not functional. Accuracy is what is being judged so this is what my models will be trained for.
